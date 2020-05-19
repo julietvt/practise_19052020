@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    color: dimgrey;
+}
+
+.changeColor{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(150,125,140,0.5);
+}
+
+.rem{
+    color: grey;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    font-size: 120%;
+}
+
